@@ -1,6 +1,4 @@
-Here is the copied content from the image:
 
----
 
  🌤️ Weather Forecasting Website
 
